@@ -1,3 +1,7 @@
+#Written by Mr. Exploit and Mammad Dark
+#A lifelong friend and brother
+#happy Ramadan
+#Posted on the twenty-eighth of Farvardin, one thousand four hundred and one
 import os, sys, time, io
 class color:
     morado = '\033[95m'
